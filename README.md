@@ -22,4 +22,4 @@
 
 Deployed on Heroku and tested deployment on AWS and Azure as well.
 
-## https://cmstestshop.herokuapp.com
+## https://cmsshoptest.herokuapp.com
