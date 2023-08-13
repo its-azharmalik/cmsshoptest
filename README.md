@@ -1,25 +1,30 @@
-# ProShop eCommerce Platform
+# CMS Shop Test - Full-Stack MERN E-Commerce Platform
 
-> eCommerce platform built with the MERN stack
+CMS Shop Test is a feature-rich e-commerce platform built using the MERN (MongoDB, Express, React, Node.js) stack. The project includes a user-friendly UI, admin panel for efficient management, payment gateway integration, and cloud deployment.
 
-## This Platform has
+![CMS Shop Test](/path/to/screenshot.png)
 
-- Shopping cart
-- Product reviews and ratings
-- Products carousel
-- Product pagination
-- Product search feature
-- User profile with orders
-- Admin product management
-- Admin user management
-- Admin Order details page
-- Mark orders as delivered option
-- Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Database seeder (products & users)
+## Features
+
+- User-friendly shopping experience with React, Redux, and Bootstrap UI.
+- Admin panel for streamlined management of orders, products, users, and deliveries.
+- Seamless cart functionality with PayPal payment gateway and wallet support.
+- Deployed on AWS EC2 using Docker for scalability and reliability.
+- Efficient operations through pm2 process manager.
+- End-to-end security with JWT authentication.
+
+## Installation
+
+1. Clone the repository:
+   
+git clone https://github.com/its-azharmalik/cmsshoptest.git
 
 >Redux is used for State Management in this application.
 
 Deployed on Heroku and tested deployment on AWS and Azure as well.
 
 ## https://cmsshoptest.herokuapp.com
+
+2. Navigate to the project directory:
+
+cd cmsshoptest
