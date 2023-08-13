@@ -2,8 +2,6 @@
 
 CMS Shop Test is a feature-rich e-commerce platform built using the MERN (MongoDB, Express, React, Node.js) stack. The project includes a user-friendly UI, admin panel for efficient management, payment gateway integration, and cloud deployment.
 
-![CMS Shop Test](/path/to/screenshot.png)
-
 ## Features
 
 - User-friendly shopping experience with React, Redux, and Bootstrap UI.
