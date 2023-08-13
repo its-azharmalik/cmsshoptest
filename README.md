@@ -21,10 +21,54 @@ git clone https://github.com/its-azharmalik/cmsshoptest.git
 
 >Redux is used for State Management in this application.
 
-Deployed on Heroku and tested deployment on AWS and Azure as well.
-
-## https://cmsshoptest.herokuapp.com
+Deployed and tested on Heroku & deployment on AWS and Azure as well.
 
 2. Navigate to the project directory:
 
 cd cmsshoptest
+
+3. Install backend and frontend dependencies:
+   
+cd backend && npm install
+cd ../frontend && npm install
+
+4. Start the development server:
+   
+cd ../backend && npm start
+cd ../frontend && npm start
+
+
+
+5. Access the application at `http://localhost:3000` in your browser.
+
+## Project Structure
+
+- `backend`: Express server, API routes, authentication, and database models.
+- `frontend`: React application, Redux store, UI components, and user interfaces.
+
+## Technologies Used
+
+- React
+- Redux
+- Express
+- Node.js
+- MongoDB
+- Bootstrap
+- JWT Authentication
+- PayPal Payment Gateway
+- Docker
+- AWS EC2
+
+## Deployment
+
+- Deployed on AWS EC2 using Docker for scalability.
+- Domain mapped with Route 53 DNS for easy access.
+
+## Contributions
+
+Contributions and improvements are welcome! Please feel free to submit pull requests or issues.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
